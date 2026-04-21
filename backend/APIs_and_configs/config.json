@@ -1,5 +1,5 @@
 {
-  "username": "", #enter your username here
+  "username": "",
   "groq_model_name": "llama-3.3-70b-versatile",
   "temperature": 0.5,
   "max_completion_tokens": 1024,
