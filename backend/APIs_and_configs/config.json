@@ -4,8 +4,8 @@
   "temperature": 0.5,
   "max_completion_tokens": 1024,
   "top_p": 1,
-  ".env_path": "E:/kanav/kairo_AI_v1/backend/APIs_and_configs/.env",
-  "logs_path": "E:/kanav/kairo_AI_v1/logs",
+  ".env_path": "./backend/APIs_and_configs/.env",
+  "logs_path": "./logs",
   "save_logs": true,
   "tags": {
     "username_tag": "{[(__USERNAME__)]}",
