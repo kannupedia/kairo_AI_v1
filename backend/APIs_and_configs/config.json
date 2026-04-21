@@ -1,0 +1,18 @@
+{
+  "username": "kanav",
+  "groq_model_name": "llama-3.3-70b-versatile",
+  "temperature": 0.5,
+  "max_completion_tokens": 1024,
+  "top_p": 1,
+  ".env_path": "E:/kanav/kairo_AI_v1/backend/APIs_and_configs/.env",
+  "logs_path": "E:/kanav/kairo_AI_v1/logs",
+  "save_logs": true,
+  "tags": {
+    "username_tag": "{[(__USERNAME__)]}",
+    "date_tag": "{[(__DATE__)]}",
+    "time_tag": "{[(__TIME__)]}",
+    "location_tag": "{[(LOCATION)]}",
+    "country_time_tag": "{[(<country_name>_TIME)]}"
+  },
+  "use_tags": true
+}
