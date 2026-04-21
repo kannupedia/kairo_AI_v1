@@ -12,33 +12,6 @@ Centralized Logging: Integrated logging system using logger.py and logs/ directo
 Prompt-driven Behavior Control: AI behavior can be dynamically controlled through prompt.txt
 Scalable Backend Design: Architecture prepared for future API expansion and feature additions
 
-Folder Structure
-
-kairo_AI_v1/
-│
-├── backend/
-│ ├── APIs_and_configs/
-│ │ ├── config.json
-│ │ └── .env
-│ │
-│ ├── models/
-│ │ ├── groq_llama-3.3-70B-versatile/
-│ │ │ ├── init.py
-│ │ │ └── groq_llama-3.3-70B-versatile.py
-│ │
-│ ├── utils/
-│ │ ├── init.py
-│ │ └── tags.py
-│
-├── logs/
-│
-├── logger.py
-├── main.py
-├── prompt.txt
-├── .gitignore
-├── requirements.txt
-└── LICENSE
-
 Requirements
 
 Python 3.10 or higher
